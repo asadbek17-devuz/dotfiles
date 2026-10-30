@@ -1,0 +1,11 @@
+[user]
+	email = asadbek17.devuz@gmail.com
+	name = asadbek17-devuz
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[core]
+	excludesfile = ~/.gitignore_global
